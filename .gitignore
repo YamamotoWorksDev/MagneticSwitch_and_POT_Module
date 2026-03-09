@@ -23,3 +23,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+MagneticSwitch_and_POT_Module/MagneticSwitch_and_POT_Module-backups/
+
+MagneticSwitch_and_POT_Module/jlcpcb/
+
+MagneticSwitch_and_POT_Module/OTO_NO_TE-backups/
+
+*.step
