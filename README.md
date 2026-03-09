@@ -1,13 +1,18 @@
 # MagneticSwitch & POT Module
 
-## Specifications
+## how to buy
+
+## specifications
 - Analog Mux: CD74HC4067M96
 - POT: RK09K1130A5R(10k) x12
 - Hall Effect Sensor: DRV5056A8QDBZR x10
 - Magnetic Switch: Gateron Low Profile Magnetic Jade Pro x10
+- RGB LED: Würth Elektronik WL-ICLED 1312020030000 x10
 
-## Size
+## size
 <img width="1265" height="872" alt="image" src="https://github.com/user-attachments/assets/98adf1cb-027a-4b6b-b143-2f5456ff5548" />
+
+## photo
 
 ## License
 The hardware design files in this repository are licensed under the
