@@ -18,7 +18,7 @@ This module is a convenient prototyping board for building user interfaces for a
 
 ## Features
 - Six magnetic switches (KEY0–5) can be connected directly to your microcontroller’s ADC pins.
-- The twelve POTs (RV1–12) and four magnetic switches (SUB_KEY6–9) are routed through a CD74HC4067M96 analog multiplexer. By driving S0–S3, you can read 16 channels of analog values from AIN.
+- The twelve POTs (RV1–12) and four magnetic switches (SUB_KEY6–9) are routed through a MC74HC4067ADWR2G analog multiplexer. By driving S0–S3, you can read 16 channels of analog values from AIN.
 - The RGB LEDs (1312020030000) are addressable and use a NeoPixel-compatible (WS2812-style) single-wire control interface.
 
 ## Application Example
