@@ -7,7 +7,7 @@ This module is a convenient prototyping board for building user interfaces for a
 
 ## Specifications
 - VCC: 3.3-5V
-- Analog Mux: [TI CD74HC4067M96](https://www.ti.com/product/ja-jp/CD74HC4067/part-details/CD74HC4067M96)
+- Analog Mux: [Onsemi MC74HC4067A](https://www.onsemi.com/products/timing-logic-memory/standard-logic/multiplexers/mc74hc4067a)
 - POT: [Alps RK09K1130A5R(10k)](https://tech.alpsalpine.com/e/products/detail/RK09K1130A5R/) x12
 - Hall Effect Sensor: [TI DRV5056A8QDBZR](https://www.ti.com/product/ja-jp/DRV5056/part-details/DRV5056A3QDBZR) x10
 - RGB LED: [Würth Elektronik WL-ICLED 1312020030000](https://www.we-online.com/en/components/products/WL-ICLED?sq=1312020030000#1312020030000) x10
