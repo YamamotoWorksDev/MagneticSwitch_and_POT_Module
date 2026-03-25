@@ -2,7 +2,7 @@
 This module is a convenient prototyping board for building user interfaces for audio devices such as MIDI controllers, synthesizers, and mixers. It features 10 magnetic switches, 12 potentiometers (POTs), and 10 RGB LEDs.
 
 ## How to buy
-- Tindie(International)  
+- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/magneticsw-and-pot-module/)  
 - [BASE(Japan)](https://miyworks.base.shop/items/139586742)
 
 ## Specifications
