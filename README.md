@@ -24,6 +24,9 @@ Yamamoto Works Ltd. Online Store
 <img width="1265" height="872" alt="image" src="https://github.com/user-attachments/assets/98adf1cb-027a-4b6b-b143-2f5456ff5548" />
 
 ## Photo
+![DSCF7960](https://github.com/user-attachments/assets/e1e7d711-cf96-42f2-89c6-a477d0969a02)
+![DSCF7952](https://github.com/user-attachments/assets/c414687d-0295-44bf-988e-96bcd089eccb)
+![DSCF7964](https://github.com/user-attachments/assets/0a285cbf-50f2-4b7a-92cc-0ac3cb42b538)
 
 ## License
 The hardware design files in this repository are licensed under the
