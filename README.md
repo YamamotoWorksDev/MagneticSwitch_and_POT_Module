@@ -2,7 +2,8 @@
 This module is a convenient prototyping board for building user interfaces for audio devices such as MIDI controllers, synthesizers, and mixers. It features 10 magnetic switches, 12 potentiometers (POTs), and 10 RGB LEDs.
 
 ## How to buy
-Yamamoto Works Ltd. Online Store
+Tindie(International)  
+[BASE(Japan)](https://miyworks.base.shop/items/139586742)
 
 ## Specifications
 - VCC: 3.3-5V
@@ -24,9 +25,8 @@ Yamamoto Works Ltd. Online Store
 <img width="1265" height="872" alt="image" src="https://github.com/user-attachments/assets/98adf1cb-027a-4b6b-b143-2f5456ff5548" />
 
 ## Photo
-![DSCF7960](https://github.com/user-attachments/assets/e1e7d711-cf96-42f2-89c6-a477d0969a02)
-![DSCF7952](https://github.com/user-attachments/assets/c414687d-0295-44bf-988e-96bcd089eccb)
-![DSCF7964](https://github.com/user-attachments/assets/0a285cbf-50f2-4b7a-92cc-0ac3cb42b538)
+![DSCF7952](https://github.com/user-attachments/assets/5b7fc943-0b36-4156-b9b5-7d7c80b38f15)
+![DSCF7964](https://github.com/user-attachments/assets/0779d37d-fd60-4b52-a8a6-09363335ce6b)
 
 ## License
 The hardware design files in this repository are licensed under the
