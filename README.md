@@ -18,7 +18,28 @@ This module is a convenient prototyping board for building user interfaces for a
 
 ## Features
 - Six magnetic switches (KEY0–5) can be connected directly to your microcontroller’s ADC pins.
-- The twelve POTs (RV1–12) and four magnetic switches (SUB_KEY6–9) are routed through a MC74HC4067ADWR2G analog multiplexer. By driving S0–S3, you can read 16 channels of analog values from AIN.
+- The twelve POTs (RV1–12) and four magnetic switches (SUB_KEY6–9) are routed through an **MC74HC4067ADWR2G** analog multiplexer. By driving **S0–S3**, you can select one of 16 channels and read its analog value from **AIN**.
+  - The channel mapping is shown below:
+  
+    | S0 | S1 | S2 | S3 | AIN source |
+    |----|----|----|----|------------|
+    | L  | L  | L  | L  | RV1        |
+    | H  | L  | L  | L  | RV2        |
+    | L  | H  | L  | L  | RV3        |
+    | H  | H  | L  | L  | RV4        |
+    | L  | L  | H  | L  | RV5        |
+    | H  | L  | H  | L  | RV6        |
+    | L  | H  | H  | L  | RV7        |
+    | H  | H  | H  | L  | RV8        |
+    | L  | L  | L  | H  | RV9        |
+    | H  | L  | L  | H  | RV10       |
+    | L  | H  | L  | H  | RV11       |
+    | H  | H  | L  | H  | RV12       |
+    | L  | L  | H  | H  | SUB_KEY6   |
+    | H  | L  | H  | H  | SUB_KEY7   |
+    | L  | H  | H  | H  | SUB_KEY8   |
+    | H  | H  | H  | H  | SUB_KEY9   |
+
 - The RGB LEDs (1312020030000) are addressable and use a NeoPixel-compatible (WS2812-style) single-wire control interface.
 
 ## Application Example
