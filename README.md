@@ -2,8 +2,8 @@
 This module is a convenient prototyping board for building user interfaces for audio devices such as MIDI controllers, synthesizers, and mixers. It features 10 magnetic switches, 12 potentiometers (POTs), and 10 RGB LEDs.
 
 ## How to buy
-Tindie(International)  
-[BASE(Japan)](https://miyworks.base.shop/items/139586742)
+- Tindie(International)  
+- [BASE(Japan)](https://miyworks.base.shop/items/139586742)
 
 ## Specifications
 - VCC: 3.3-5V
