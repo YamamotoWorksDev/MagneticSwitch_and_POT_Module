@@ -21,6 +21,9 @@ This module is a convenient prototyping board for building user interfaces for a
 - The twelve POTs (RV1–12) and four magnetic switches (SUB_KEY6–9) are routed through a CD74HC4067M96 analog multiplexer. By driving S0–S3, you can read 16 channels of analog values from AIN.
 - The RGB LEDs (1312020030000) are addressable and use a NeoPixel-compatible (WS2812-style) single-wire control interface.
 
+## Application Example
+- [JUMBLEQ](https://github.com/yamamo2shun1/JUMBLEQ)
+
 ## Size
 <img width="1265" height="872" alt="image" src="https://github.com/user-attachments/assets/98adf1cb-027a-4b6b-b143-2f5456ff5548" />
 
